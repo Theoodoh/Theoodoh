@@ -7,7 +7,7 @@
 
 - 🔭 I am passionate about research in electrical power systems and power electronics thus I am part of the Center for Power Systems Dynamic Simulation collaborating with Dr. Aliyu Sabo at the Nigeria Defence Academy. Most of our collaborative efforts are on this page with present focus on machine learning application in inverter dominated electrical power grids and power electronics.
 - ✨ I am skilled in MATLAB-Simulink, LaTeX, Arduino, Distributed Control System, Webots, AutoCAD, Microsoft Visio, Printed Circuit Board design and layout 
-- 🌱 I’m currently learning Python, Recently I worked on a project: automobile surveillance, object recognition and obstacle avoidance robot using Webots, Python and C++, Which is posted on here
+- 🌱 I’m currently learning Python, Recently I worked on a project: automobile surveillance, object recognition and obstacle avoidance robot using Webots, Python and C++, Which is posted here
 - 📫 How to reach me: theophilusodh@gmail.com
 
 <!--
