@@ -1,6 +1,6 @@
 ## 
 - 👋 Hi, I'm Theophilus Ebuka Odoh.
-- 👀 I am interested in the Optimization and control of renewable energy-integrated electrical power grid, Machine Learning verification and applications in power systems, Cyberphysical power system
+- 👀 I am interested in the Optimization and control of renewable energy-integrated electrical power grid, power electronics, Machine Learning verification and applications in power systems.
 - 🔭 I am currently a trainee engineer in control, Insrumentation and automation department at Dangote Petroleum Refinery and Petrochemicals (DPRP) in Nigeria, My unit is Offsite/Gantry/Control room 04.
 - Milestone: I helped in commissioning the Premium Motor Spirit (PMS) gantry truck loading area.
 - Present Duties: I provide operational support to ensure swift operation in the gantry by attending to issues concerning the batch controller unit (BCU), Card reader (CR), Mass flow meter (MFM), Earthing relay and overspill interlocks. I help automate the loading process from the control room. In addition, I provide operational support through the distributed control system for monitoring and control of product tank farm area and I do attend to Motor-Operated Valve (MOV) issues in the tank farm area.
