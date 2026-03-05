@@ -4,8 +4,6 @@
 - 🔭 I am passionate about power systems, instrumentation and control
 - ✨ I am skilled in MATLAB-Simulink, LaTeX, Arduino, Distributed Control System, Webots, AutoCAD, Microsoft Visio, Printed Circuit Board design and layout 
 - 🌱 I’m currently learning Python, Recently I worked on a project: automobile surveillance, object recognition and obstacle avoidance robot using Webots, Python and C++, Which is posted here
-- 📫 How to reach me: theophilusodh@gmail.com
-
 <!--
 **Theoodoh/Theoodoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
