@@ -1,7 +1,7 @@
 ## 
 - 👋 Hi, I'm Theophilus Ebuka Odoh.
 - 👀 I am interested in the Optimization and control of renewable energy-integrated electrical power grid, power electronics, Machine Learning verification and applications in power systems.
-- 🔭 I am passionate about research in electrical power systems and power electronics, From August 2022 to November 2023 I worked physically as a research assistant at the Center for Power Systems Dynamic Simulation under Dr. Aliyu Sabo at the Nigerian Defence Academy Kaduna, I carried out my masters thesis research in this center and subsequently worked on two research projects focused on "Power system modeling, renewable energy integration and damping controller design". Most of our research works are on this page with present focus on machine learning application in inverter dominated electrical power grids and power electronics. I am still part of the research group, From December 2023 to date, I work remotely because I moved from Kaduna state to Lagos state, Nigeria.
+- 🔭 I am passionate about power systems, instrumentation and control
 - ✨ I am skilled in MATLAB-Simulink, LaTeX, Arduino, Distributed Control System, Webots, AutoCAD, Microsoft Visio, Printed Circuit Board design and layout 
 - 🌱 I’m currently learning Python, Recently I worked on a project: automobile surveillance, object recognition and obstacle avoidance robot using Webots, Python and C++, Which is posted here
 - 📫 How to reach me: theophilusodh@gmail.com
